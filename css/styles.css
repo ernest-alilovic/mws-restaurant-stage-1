@@ -273,3 +273,9 @@ nav h1 a {
 #restaurant-hours td {
   color: #666;
 }
+
+/* ====================== Restaurant Details ====================== */
+
+img, embed, object, video {
+  max-width: 100%;
+}
