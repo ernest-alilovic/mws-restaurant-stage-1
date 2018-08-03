@@ -10,7 +10,7 @@ Restaurant Reviews App (Stage 1)
 * Download the project as a .zip file or clone using:
 
     ```
-    $ git clone https://github.com/stearruda/restaurant-reviews-app-stage-1.git
+    $ https://github.com/ernest-alilovic/mws-restaurant-stage-1.git
     ```
 
 * In this folder, set up a local testing server to view the site in your browser. Python is the easiest way to do this. Mac users have it already installed on their computer. If you don't have Python, however, navigate to Python's [website](https://www.python.org/) to download and install the software.
