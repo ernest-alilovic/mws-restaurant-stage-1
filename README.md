@@ -21,4 +21,4 @@ Restaurant Reviews App (Stage 1)
 
 ## How to Run the Application
 
-The starter code for this project was provided by [Udacity](https://github.com/udacity/mws-restaurant-stage-1). The map was provided by [Mapbox](https://www.mapbox.com/).
+The starter code for this project was provided by [Udacity](https://github.com/udacity/mws-restaurant-stage-1). The application uses [leaflet](https://leafletjs.com/) with [Mapbox](https://www.mapbox.com/).
