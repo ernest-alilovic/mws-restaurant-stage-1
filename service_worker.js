@@ -1,6 +1,5 @@
 let staticCacheName = 'restaurant-cache';
 let urlisToCache = [
-	[
 		'./',
 		'./index.html',
 		'./restaurant.html',
